@@ -2,7 +2,7 @@ Config = {}
 
 
 
-Config.Tax = false
+Config.Tax = false -- true if you needs to use tax system
 
 
 
