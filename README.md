@@ -12,4 +12,6 @@ one-tax(optional)
 
 progressBar
 
+qtarget
+
 mythic_notify
