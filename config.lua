@@ -2,6 +2,10 @@ Config = {}
 
 
 
+Config.Tax = false
+
+
+
 Config.PumpModels = {
 
 	[-2007231801] = true,
